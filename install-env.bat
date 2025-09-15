@@ -3,4 +3,4 @@ rokit self-install
 
 rokit install
 
-npm install -g rostar
+npm install -g rostar rbxts-build
