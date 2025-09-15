@@ -1,0 +1,1 @@
+rostar unpack build.rbxlx --no-overwrite-project --no-lua --assets-directory map
