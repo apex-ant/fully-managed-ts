@@ -3,4 +3,4 @@ rokit self-install
 
 rokit install
 
-cargo install rostar
+npm install -g rostar
